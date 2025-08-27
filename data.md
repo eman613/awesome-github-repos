@@ -797,7 +797,7 @@
 
 *   [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 
-*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、ローマ字検索、通配符、快速选择扩展
+*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
 
 *   [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
 
@@ -1017,6 +1017,8 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
+*   [zu1k/tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) - Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作
+
 ## Python
 
 *   [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
@@ -1037,9 +1039,7 @@
 
 *   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 
-*   [expoli/rime-wanxiang-update-tools](https://github.com/expoli/rime-wanxiang-update-tools) - 本工具用于自动更新Rime输入法的万象方案、词库和模型，支持Windows、macOS、Linux系统以及Fcitx5-for-Android。
-
-*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化(mac版本>=v9.27.2暂不可用)
+*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
 
 *   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
 
@@ -1285,7 +1285,7 @@
 
 *   [bkaankose/Wino-Mail](https://github.com/bkaankose/Wino-Mail) - Built-in Mail & Calendars app clone for Windows.
 
-*   [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly smoothly through your Windows 11 setup 🐝
+*   [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly through your Windows 11 setup 🐝
 
 *   [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize and customize your Windows experience.
 
