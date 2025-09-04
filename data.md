@@ -66,7 +66,7 @@
 
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
-*   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A feature-rich, efficient and flexible cross-platform desktop image compression application.
+*   [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application / 现代化、功能齐全、高性能、跨平台的图像压缩应用程序
 
 *   [orion-lib/OrionTV](https://github.com/orion-lib/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。
 
