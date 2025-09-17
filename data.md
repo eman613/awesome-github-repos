@@ -749,7 +749,7 @@
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 832 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
 
 *   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 
