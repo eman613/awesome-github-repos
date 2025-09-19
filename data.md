@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Svelte](#svelte)
-*   [Python](#python)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
@@ -46,8 +46,197 @@
 *   [Vim Script](#vim-script)
 *   [SCSS](#scss)
 *   [Clojure](#clojure)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [FreeMarker](#freemarker)
+*   [Haskell](#haskell)
+
+## Python
+
+*   [Return-Log/Education-Clock](https://github.com/Return-Log/Education-Clock) - 适合学校使用的桌面时钟，软件具有 -倒计时 -桌面时钟 -课程表 -天气预报 -自动新闻联播 -定时关机 -消息通知栏 -随机点名等功能
+
+*   [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 基于linkding修改的书签管理器，进行了中文本地化、功能增强、界面优化。支持🎲随机排序、📅日期筛选、🐞自定义快照脚本、♻️回收站等丰富功能，拥有搜索栏&侧边栏随屏滚动、侧边栏折叠、独立滚动条、位置&折叠状态记忆等界面优化。
+
+*   [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
+
+*   [gushuaialan1/png2pdf](https://github.com/gushuaialan1/png2pdf) - 长图自动分割转pdf方便打印
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+
+*   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) -
+
+*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+
+*   [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) - Undetected Python version of the Playwright testing and automation library.
+
+*   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
+
+*   [expoli/rime-wanxiang-update-tools](https://github.com/expoli/rime-wanxiang-update-tools) - 本工具用于自动更新Rime输入法的万象方案、词库和模型，支持Windows、macOS、Linux系统以及Fcitx5-for-Android。
+
+*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
+
+*   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
+
+*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
+
+*   [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
+
+*   [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) - 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [LingDong-/qiji-font](https://github.com/LingDong-/qiji-font) - 齊伋體 - typeface from Ming Dynasty woodblock printed books
+
+*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
+
+*   [zhaoxiaozhao07/mouse-click](https://github.com/zhaoxiaozhao07/mouse-click) -
+
+*   [lxgw/LxgwMarkerGothic](https://github.com/lxgw/LxgwMarkerGothic) - An open-source Chinese font derived from Tanugo
+
+*   [Des-Magmeta/ChildFunSans](https://github.com/Des-Magmeta/ChildFunSans) - An open-source Chinese font derived from Fontworks' Stick.
+
+*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+
+*   [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
+
+*   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+
+*   [banto6/haier](https://github.com/banto6/haier) - 海尔智能家居设备接入HomeAssistant
+
+*   [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
+
+*   [ARC-MX/sgcc\_electricity\_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
+
+*   [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
+
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+
+*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
+
+*   [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+
+*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
+
+*   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
+
+*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
+
+*   [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
+
+*   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+
+*   [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
+
+*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
+
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+
+*   [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Free Pascal
+
+*   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+
+*   [Gaoyongxian666/OpenSearcher](https://github.com/Gaoyongxian666/OpenSearcher) - 一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。
+
+*   [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
+
+*   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop\_computer: Command-line system monitoring
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+
+*   [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) - CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。
+
+*   [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [SuMaiKaDe/bot](https://github.com/SuMaiKaDe/bot) -
+
+*   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
+
+*   [curtinlv/JD-Script](https://github.com/curtinlv/JD-Script) - 仅供参考。
+
+*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+
+*   [HaujetZhao/CapsWriter](https://github.com/HaujetZhao/CapsWriter) - 一款电脑语音输入工具，运行后，按下大写锁定键超过 0.3 秒，就开始语音识别，松开按键之后，自动输入识别结果。
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
+
+*   [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
+
+*   [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
+
+*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
+*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+
+*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+
+*   [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
+
+*   [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - (No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+
+*   [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+
+*   [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS
+
+*   [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator) - 身份证图片生成工具 generate an id card picture
+
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+
+*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
+
+*   [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
+
+*   [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+
+*   [HelioGuilherme66/RIDE](https://github.com/HelioGuilherme66/RIDE) - Test data editor for Robot Framework
+
+*   [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
+
+*   [lilyvia/aria2-conf](https://github.com/lilyvia/aria2-conf) - simplified chinese configuration and aria2rpc / 部分汉化 aria2 配置文件
+
+*   [Yxisenx/QQmusicdownloader](https://github.com/Yxisenx/QQmusicdownloader) -
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
+*   [LifeActor/ykdl](https://github.com/LifeActor/ykdl) - a video downloader focus on China mainland video sites.(一款专注于中国大陆视频网站的视频下载器。)
+
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+
+*   [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
+
+*   [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
+
+*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 
 ## TypeScript
+
+*   [hamsterbase/tasks](https://github.com/hamsterbase/tasks) -
 
 *   [SzeMeng76/LunaTV](https://github.com/SzeMeng76/LunaTV) -
 
@@ -243,6 +432,12 @@
 
 *   [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
 ## Go
 
 *   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
@@ -364,6 +559,16 @@
 *   [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [zu1k/tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) - Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作
+
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
 ## JavaScript
 
@@ -593,6 +798,48 @@
 
 *   [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark\_tabs: A better OneTab for Chrome  :memo:
 
+*   [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+
+*   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+
+*   [nondanee/vsc-netease-music](https://github.com/nondanee/vsc-netease-music) - UNOFFICIAL Netease Music extension for Visual Studio Code
+
+*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+
+*   [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
+
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+*   [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
+
+*   [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
+
+*   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
+
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+*   [acgotaku/115](https://github.com/acgotaku/115) - Assistant for 115 to export download links to aria2-rpc
+
+*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+
+*   [jae-jae/Camtd](https://github.com/jae-jae/Camtd) - Chrome multi-threaded download manager extension,based on Aria2 and AriaNg.  Chrome多线程下载扩展。
+
+*   [zmzhang8/Photon](https://github.com/zmzhang8/Photon) - A lightweight multi-threaded downloader based on aria2.
+
+*   [cyanzhong/xTeko](https://github.com/cyanzhong/xTeko) - JSBox demos
+
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+
+*   [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+
+*   [waynecz/dadda-translate-crx](https://github.com/waynecz/dadda-translate-crx) - 🐱 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步
+
+*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+*   [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+
 ## Vue
 
 *   [LYX9527/what-happen](https://github.com/LYX9527/what-happen) - 一个简约无广，专注新闻的聚合体，完美适配Web端，手机端，《今日时事》为您实时聚合各大平台最新资讯，按时间序列 展示热点新闻动态，包含头条、百度、知乎、哔哩哔哩、豆瓣、微博、贴吧、汽车之家、虎扑、Github、抖音、懂车帝等各种消息，给您提供极致的专注阅读的信息流体验！
@@ -699,6 +946,16 @@
 
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
+*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+
+*   [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
+
+*   [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
+
+*   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
+
 ## Svelte
 
 *   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
@@ -706,162 +963,6 @@
 *   [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
 *   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
-
-## Python
-
-*   [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 基于linkding修改的书签管理器，进行了中文本地化、功能增强。
-
-*   [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
-
-*   [gushuaialan1/png2pdf](https://github.com/gushuaialan1/png2pdf) - 长图自动分割转pdf方便打印
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
-
-*   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) -
-
-*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
-
-*   [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) - Undetected Python version of the Playwright testing and automation library.
-
-*   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
-
-*   [expoli/rime-wanxiang-update-tools](https://github.com/expoli/rime-wanxiang-update-tools) - 本工具用于自动更新Rime输入法的万象方案、词库和模型，支持Windows、macOS、Linux系统以及Fcitx5-for-Android。
-
-*   [ArcSurge/Termius-Pro-zh\_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
-
-*   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
-
-*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
-
-*   [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
-
-*   [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) - 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [LingDong-/qiji-font](https://github.com/LingDong-/qiji-font) - 齊伋體 - typeface from Ming Dynasty woodblock printed books
-
-*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
-
-*   [zhaoxiaozhao07/mouse-click](https://github.com/zhaoxiaozhao07/mouse-click) -
-
-*   [lxgw/LxgwMarkerGothic](https://github.com/lxgw/LxgwMarkerGothic) - An open-source Chinese font derived from Tanugo
-
-*   [Des-Magmeta/ChildFunSans](https://github.com/Des-Magmeta/ChildFunSans) - An open-source Chinese font derived from Fontworks' Stick.
-
-*   [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-
-*   [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
-
-*   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
-
-*   [banto6/haier](https://github.com/banto6/haier) - 海尔智能家居设备接入HomeAssistant
-
-*   [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
-
-*   [ARC-MX/sgcc\_electricity\_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
-
-*   [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
-
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
-
-*   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
-
-*   [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-
-*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
-
-*   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
-
-*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-
-*   [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
-
-*   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-
-*   [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
-
-*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-
-*   [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-
-*   [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Free Pascal
-
-*   [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-
-*   [Gaoyongxian666/OpenSearcher](https://github.com/Gaoyongxian666/OpenSearcher) - 一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。
-
-*   [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
-
-*   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop\_computer: Command-line system monitoring
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
-*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-
-*   [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) - CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。
-
-*   [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
-
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [SuMaiKaDe/bot](https://github.com/SuMaiKaDe/bot) -
-
-*   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
-
-*   [curtinlv/JD-Script](https://github.com/curtinlv/JD-Script) - 仅供参考。
-
-*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-
-*   [HaujetZhao/CapsWriter](https://github.com/HaujetZhao/CapsWriter) - 一款电脑语音输入工具，运行后，按下大写锁定键超过 0.3 秒，就开始语音识别，松开按键之后，自动输入识别结果。
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-
-*   [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
-
-*   [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
-
-*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
-*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-
-*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-
-*   [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
-
-*   [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - (No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
-
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
-
-*   [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
-
-*   [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS
-
-*   [airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator) - 身份证图片生成工具 generate an id card picture
-
-*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 ## Rust
 
@@ -1058,6 +1159,22 @@
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+
+*   [cuiliang/Quicker](https://github.com/cuiliang/Quicker) - Quicker软件反馈repo
+
+*   [zhaopengme/gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT that does not require a local GIT environment.
+
+*   [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+
+*   [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site) - A feature-rich, efficient text editor - Web Site
 
 ## C\#
 
@@ -1265,6 +1382,28 @@
 
 *   [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools
 
+*   [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
+
+*   [TkYu/ChromeUpdater](https://github.com/TkYu/ChromeUpdater) - :)
+
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
 ## AutoHotkey
 
 *   [lch319/XiaoYao\_QuickJump](https://github.com/lch319/XiaoYao_QuickJump) - 在打开或保存对话框中，快速跳转到当前 资源管理器/TC/DO/XY/Q-Dir中打开的文件夹路径
@@ -1457,6 +1596,32 @@
 
 *   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
 
+*   [cool2528/baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+*   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+
+*   [Cyberbeing/xy-VSFilter](https://github.com/Cyberbeing/xy-VSFilter) - Official xy-VSFilter Repository
+
+*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+
+*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+
+*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+
+*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
 ## HTML
 
 *   [xyTom/cap-worker](https://github.com/xyTom/cap-worker) - Cap backend server build on Cloudflare worker, modern open-source CAPTCHA alternative using SHA-256 proof-of-work.
@@ -1490,6 +1655,8 @@
 *   [fxxkmakeding-archieve/fxxkmakeding](https://github.com/fxxkmakeding-archieve/fxxkmakeding) -
 
 *   [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
+
+*   [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 
 ## Lua
 
@@ -1566,6 +1733,8 @@
 *   [cdevroe/unmark](https://github.com/cdevroe/unmark) - An open source to do app for bookmarks.
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+
+*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 
 ## Objective-C
 
@@ -1654,6 +1823,12 @@
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 *   [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
+
+*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+*   [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly interface and automation options like .NET assembly.
 
 ## Dart
 
@@ -1753,6 +1928,8 @@
 
 *   [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
 ## Shell
 
 *   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
@@ -1805,6 +1982,14 @@
 
 *   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 
+*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+
+*   [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+
+*   [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
+
+*   [hitechbeijing/osapp2dmg](https://github.com/hitechbeijing/osapp2dmg) - A shell which could make a dmg image by using Mac OS install APP
+
 ## PowerShell
 
 *   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -1823,6 +2008,10 @@
 
 *   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+
 ## AutoIt
 
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
@@ -1832,6 +2021,8 @@
 *   [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 
 *   [fediaFedia/Omnimo](https://github.com/fediaFedia/Omnimo) - Omnimo UI Official Repository
+
+*   [cnjackchen/my-chrome](https://github.com/cnjackchen/my-chrome) - MyChrome -- Make Google Chrome portable yourself
 
 ## Dockerfile
 
@@ -1849,11 +2040,15 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
+*   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
+
 ## CSS
 
 *   [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 
 *   [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Pascal
 
@@ -1901,6 +2096,8 @@
 
 *   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
+*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+
 ## Meson
 
 *   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
@@ -1934,3 +2131,15 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Jupyter Notebook
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+## FreeMarker
+
+*   [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
+## Haskell
+
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
