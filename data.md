@@ -55,7 +55,7 @@
 
 *   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
-*   [iKineticate/BlueGauge](https://github.com/iKineticate/BlueGauge) - A lightweight tray tool for easily checking the battery level of your Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
+*   [iKineticate/BlueGauge](https://github.com/iKineticate/BlueGauge) - A lightweight tray tool for easily viewing the battery level of your Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
 
 *   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
 
