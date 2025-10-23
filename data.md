@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -49,6 +50,10 @@
 *   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [FreeMarker](#freemarker)
+
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## Java
 
@@ -897,8 +902,6 @@
 *   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-
-*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 
 ## Rust
 
