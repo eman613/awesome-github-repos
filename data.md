@@ -53,6 +53,8 @@
 
 ## JavaScript
 
+*   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+
 *   [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 
 *   [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
@@ -318,6 +320,8 @@
 *   [cyanzhong/xTeko](https://github.com/cyanzhong/xTeko) - JSBox demos
 
 ## Python
+
+*   [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automating docker containers updates with a web ui
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
@@ -1723,8 +1727,6 @@
 
 *   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
 ## AutoHotkey
 
 *   [lch319/XiaoYao\_QuickJump](https://github.com/lch319/XiaoYao_QuickJump) - 在打开或保存对话框中，快速跳转到当前 资源管理器/TC/DO/XY/Q-Dir中打开的文件夹路径
@@ -1870,8 +1872,6 @@
 *   [cdevroe/unmark](https://github.com/cdevroe/unmark) - An open source to do app for bookmarks.
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 
 ## C
 
