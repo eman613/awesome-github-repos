@@ -387,7 +387,7 @@
 
 *   [ARC-MX/sgcc\_electricity\_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
 
-*   [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
+*   [giantpinkrobots/Varia](https://github.com/giantpinkrobots/Varia) - Download manager that supports regular downloads, torrents and videos
 
 *   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
