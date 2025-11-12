@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -10,7 +11,6 @@
 *   [Zig](#zig)
 *   [Java](#java)
 *   [Nim](#nim)
-*   [C++](#c)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -51,7 +51,185 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [FreeMarker](#freemarker)
 
+## C++
+
+*   [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一个轻量级跨平台远程桌面软件，支持 Web 客户端访问。
+
+*   [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
+
+*   [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+
+*   [Mikachu2333/Mouse\_Crosshairs](https://github.com/Mikachu2333/Mouse_Crosshairs) - This software can display the mouse crosshair, allowing you to easily locate items when browsing tables and other files.｜这个软件可以显示鼠标十字准星，让你在浏览表格等文件时方便地定位
+
+*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+
+*   [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
+
+*   [bytedance/Fastbot\_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
+
+*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+
+*   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
+
+*   [kukuruzka165/materialgram](https://github.com/kukuruzka165/materialgram) - Telegram Desktop fork with material icons and some improvements
+
+*   [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) - Desktop Telegram client with good customization and Ghost mode.
+
+*   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
+
+*   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
+
+*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
+
+*   [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - A simple image viewer   一款简单的看图软件
+
+*   [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+
+*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
+
+*   [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
+
+*   [superDMS/HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) - 雪藏HsFreezer是一款调度计算机资源的进程管理软件 and 游戏暂停冻结软件 and 老板键平替软件 and .....自定义软件)
+
+*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
+
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
+
+*   [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
+
+*   [XMuli/SunnyCapturer](https://github.com/XMuli/SunnyCapturer) - A simple and beautiful cross-platform screenshot software, It also supports OCR, image translation, stickers and  pinning images features.  |  简单且漂亮的跨平台截图软件，支持离线 OCR、图片翻译、贴图和钉图等功能
+
+*   [Bush2021/chrome\_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
+
+*   [heyManNice/EasyMusic](https://github.com/heyManNice/EasyMusic) - 这是一个致力于用C++和win32api打造的开源第三方网易云音乐。
+
+*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+
+*   [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
+
+*   [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
+
+*   [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
+
+*   [H3d9/memory\_cleaner](https://github.com/H3d9/memory_cleaner) - Memory Cleaner重制版（原版未开源），删除强制联网更新，并添加目前windows已有的所有清理内存方法。
+
+*   [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
+
+*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
+
+*   [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
+
+*   [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+*   [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
+
+*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
+
+*   [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
+*   [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
+
+*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
+
+*   [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
+
+*   [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
+
+*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
+
+*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [BLumia/pineapple-pictures](https://github.com/BLumia/pineapple-pictures) - A homebrew lightweight image viewer.
+
+*   [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
+
+*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
+
+*   [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
+
+*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
+
+*   [mpurses/Sonder](https://github.com/mpurses/Sonder) - Rainmeter skin
+
+*   [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) - Network file transfer application for Windows, OS X, & Linux
+
+*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+
+*   [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
+
+*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+
+*   [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
+
+*   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
+
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+
+*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+
+*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+*   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
+
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+
+*   [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+
+*   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
+
+*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
+
+*   [cool2528/baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+
+*   [Cyberbeing/xy-VSFilter](https://github.com/Cyberbeing/xy-VSFilter) - Official xy-VSFilter Repository
+
+*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+
+*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+
+*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+
 ## JavaScript
+
+*   [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 
 *   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
@@ -387,7 +565,7 @@
 
 *   [ARC-MX/sgcc\_electricity\_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
 
-*   [giantpinkrobots/Varia](https://github.com/giantpinkrobots/Varia) - Download manager that supports regular downloads, torrents and videos
+*   [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 
 *   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
@@ -502,8 +680,6 @@
 *   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
 
 *   [LifeActor/ykdl](https://github.com/LifeActor/ykdl) - a video downloader focus on China mainland video sites.(一款专注于中国大陆视频网站的视频下载器。)
-
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 
 ## TypeScript
 
@@ -988,182 +1164,6 @@
 ## Nim
 
 *   [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-
-## C++
-
-*   [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
-
-*   [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
-
-*   [Mikachu2333/Mouse\_Crosshairs](https://github.com/Mikachu2333/Mouse_Crosshairs) - This software can display the mouse crosshair, allowing you to easily locate items when browsing tables and other files.｜这个软件可以显示鼠标十字准星，让你在浏览表格等文件时方便地定位
-
-*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
-
-*   [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
-
-*   [bytedance/Fastbot\_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
-
-*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-
-*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-
-*   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
-
-*   [kukuruzka165/materialgram](https://github.com/kukuruzka165/materialgram) - Telegram Desktop fork with material icons and some improvements
-
-*   [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) - Desktop Telegram client with good customization and Ghost mode.
-
-*   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
-
-*   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
-
-*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
-
-*   [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - A simple image viewer   一款简单的看图软件
-
-*   [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-
-*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
-
-*   [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
-
-*   [superDMS/HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) - 雪藏HsFreezer是一款调度计算机资源的进程管理软件 and 游戏暂停冻结软件 and 老板键平替软件 and .....自定义软件)
-
-*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
-
-*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-
-*   [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
-
-*   [XMuli/SunnyCapturer](https://github.com/XMuli/SunnyCapturer) - A simple and beautiful cross-platform screenshot software, It also supports OCR, image translation, stickers and  pinning images features.  |  简单且漂亮的跨平台截图软件，支持离线 OCR、图片翻译、贴图和钉图等功能
-
-*   [Bush2021/chrome\_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
-
-*   [heyManNice/EasyMusic](https://github.com/heyManNice/EasyMusic) - 这是一个致力于用C++和win32api打造的开源第三方网易云音乐。
-
-*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-
-*   [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
-
-*   [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
-
-*   [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
-
-*   [H3d9/memory\_cleaner](https://github.com/H3d9/memory_cleaner) - Memory Cleaner重制版（原版未开源），删除强制联网更新，并添加目前windows已有的所有清理内存方法。
-
-*   [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
-
-*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
-
-*   [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
-
-*   [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-*   [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
-
-*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-
-*   [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
-
-*   [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-
-*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
-
-*   [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
-
-*   [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
-
-*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
-
-*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [BLumia/pineapple-pictures](https://github.com/BLumia/pineapple-pictures) - A homebrew lightweight image viewer.
-
-*   [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
-
-*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
-
-*   [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
-
-*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
-
-*   [mpurses/Sonder](https://github.com/mpurses/Sonder) - Rainmeter skin
-
-*   [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) - Network file transfer application for Windows, OS X, & Linux
-
-*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-
-*   [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
-
-*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
-
-*   [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
-
-*   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
-
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-
-*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
-
-*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-*   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
-
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-
-*   [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-
-*   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
-
-*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-
-*   [cool2528/baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
-
-*   [Cyberbeing/xy-VSFilter](https://github.com/Cyberbeing/xy-VSFilter) - Official xy-VSFilter Repository
-
-*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
-
-*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-
-*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-
-*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
 ## Rust
 
@@ -2029,7 +2029,7 @@
 
 *   [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) - uBlock Origin 乘风广告过滤规则
 
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 *   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 
