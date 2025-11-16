@@ -1987,7 +1987,7 @@
 
 *   [htyxyt/Aria2-SuperLazyPackage](https://github.com/htyxyt/Aria2-SuperLazyPackage) - Aria2 超·懒人包，一键配置Aria2，让Aria2以Windows系统服务的方式自动运行。
 
-*   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for better and simpler use completions in PowerShell.
+*   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
 
 *   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
