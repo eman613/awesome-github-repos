@@ -801,7 +801,7 @@
 
 *   [lkytal/GM](https://github.com/lkytal/GM) - UserScripts for Firefox, Chrome and etc
 
-*   [HeddaZ/shadowin](https://github.com/HeddaZ/shadowin) - ShadowStock 影子证券提供完备的股票盯盘界面和外观隐蔽特性，允许自定义投资组合、关注实时盈亏；配套使用具备老板键和透明窗体特性的 Shadowin 影窗浏览器，发挥神器奇效！
+*   [heddaz/shadowin](https://github.com/heddaz/shadowin) - ShadowStock 影子证券提供完备的股票盯盘界面和外观隐蔽特性，允许自定义投资组合、关注实时盈亏；配套使用具备老板键和透明窗体特性的 Shadowin 影窗浏览器，发挥神器奇效！
 
 *   [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 
@@ -1157,7 +1157,7 @@
 
 *   [openp2p-cn/openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP\&TCP punch. NAT travelsal, sdwan.(P2P内网穿透，组网，联机)
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
 
 *   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
 
@@ -1797,7 +1797,7 @@
 
 *   [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
 
-*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572
+*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。　　Q群：11033572
 
 *   [RainCandyTech/WeaselSchemaSetup](https://github.com/RainCandyTech/WeaselSchemaSetup) - 小狼毫输入法配置方案整合包，整合了雾凇拼音和空山五笔方案，做到了配置方案的一键安装，为初入中州韵输入法的小白提供便利。
 
