@@ -53,6 +53,10 @@
 
 ## TypeScript
 
+*   [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
+
+*   [rbetree/MarksVault](https://github.com/rbetree/MarksVault) - 一个强大的浏览器扩展，用于智能管理、整理和安全备份您的书签数据
+
 *   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1103,8 +1107,6 @@
 
 *   [lilyvia/aria2-conf](https://github.com/lilyvia/aria2-conf) - simplified chinese configuration and aria2rpc / 部分汉化 aria2 配置文件
 
-*   [Yxisenx/QQmusicdownloader](https://github.com/Yxisenx/QQmusicdownloader) -
-
 ## Go
 
 *   [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -1722,8 +1724,6 @@
 *   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 *   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 
 ## AutoHotkey
 
