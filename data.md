@@ -163,6 +163,8 @@
 
 *   [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 
+*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+
 *   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -184,8 +186,6 @@
 *   [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
 
 *   [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 *   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 
@@ -1253,7 +1253,7 @@
 
 ## Java
 
-*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子软件，最近忙着生存，有没愿意维护的朋友
 
 *   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox、Plex、Emby、Jelly、Subsonic音乐播放器，支持Android、Windows、Mac、Linux平台
 
@@ -1354,6 +1354,8 @@
 *   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 
 *   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
@@ -1770,8 +1772,6 @@
 *   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 
 *   [chilohwei/watermark-tool](https://github.com/chilohwei/watermark-tool) - 【AI】水印宝 - 专业的在线图片水印工具
-
-*   [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
