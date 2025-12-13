@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [C#](#c)
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
@@ -51,83 +51,9 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [FreeMarker](#freemarker)
 
-## Rust
-
-*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-
-*   [iKineticate/BlueGauge](https://github.com/iKineticate/BlueGauge) - A lightweight tray tool for easily viewing the battery level of Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
-
-*   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
-
-*   [rsbench/IP-Hacker](https://github.com/rsbench/IP-Hacker) -  IP tools used by Russia's big hackers | 一款跨平台、高性能、易使用、CLI 友好的 IP 批量检测工具
-
-*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
-
-*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-
-*   [mtkennerly/shawl](https://github.com/mtkennerly/shawl) - Windows service wrapper for arbitrary commands
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
-*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
-
-*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-
-*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-
-*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
 ## C\#
+
+*   [zixing131/UnlockServer](https://github.com/zixing131/UnlockServer) - UnlockServer 一个蓝牙设备解锁锁定电脑的小工具
 
 *   [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) - 一款轻量、可定制的开源桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能。支持横竖屏显示、多语言、主题切换、透明度显示、三色报警，界面简洁且高度可配置。A lightweight and customizable desktop hardware monitoring tool — real-time monitoring of system performance such as CPU, GPU, memory, disk, and network.
 
@@ -349,6 +275,82 @@
 
 *   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
+## Rust
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+
+*   [iKineticate/BlueGauge](https://github.com/iKineticate/BlueGauge) - A lightweight tray tool for easily viewing the battery level of Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
+
+*   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
+
+*   [rsbench/IP-Hacker](https://github.com/rsbench/IP-Hacker) -  IP tools used by Russia's big hackers | 一款跨平台、高性能、易使用、CLI 友好的 IP 批量检测工具
+
+*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+
+*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+
+*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+*   [mtkennerly/shawl](https://github.com/mtkennerly/shawl) - Windows service wrapper for arbitrary commands
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+
+*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+
+*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+
+*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
 ## Go
 
 *   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform desktop RSS reader. 一个现代化、跨平台的 RSS 阅读器.
@@ -429,7 +431,7 @@
 
 *   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 
-*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。免费NPS节点：https://natnps.com
+*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.26.10 版本二开而来，NPS接力项目。
 
 *   [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video
 
@@ -682,6 +684,8 @@
 *   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
 
 *   [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
+
+*   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox、Plex、Emby、Jelly、Subsonic音乐播放器，支持Android、Windows、Mac、Linux平台
 
 *   [jd1378/otphelper](https://github.com/jd1378/otphelper) - open-source application that can copy OTP and codes from notifications automatically for you
 
@@ -1209,7 +1213,7 @@
 
 *   [wxory/CRTMonitor](https://github.com/wxory/CRTMonitor) - 12306余票监控程序
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubRelease/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [kwenxu/Bookmark-Backup](https://github.com/kwenxu/Bookmark-Backup) - 书签备份（云端/本地，自动/手动，时间线，提醒）or Bookmark Backup (Cloud/Local, Auto/Manual, Timeline, Reminder)
 
@@ -1423,8 +1427,6 @@
 
 *   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-
 ## C++
 
 *   [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
@@ -1600,8 +1602,6 @@
 ## Java
 
 *   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子软件，最近忙着生存，有没愿意维护的朋友
-
-*   [pure-music/PureMusic](https://github.com/pure-music/PureMusic) - 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox、Plex、Emby、Jelly、Subsonic音乐播放器，支持Android、Windows、Mac、Linux平台
 
 *   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 
