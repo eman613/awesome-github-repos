@@ -10,6 +10,7 @@
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Batchfile](#batchfile)
+*   [Perl](#perl)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C++](#c-1)
@@ -37,7 +38,6 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Markdown](#markdown)
 *   [QML](#qml)
-*   [Perl](#perl)
 *   [Ruby](#ruby)
 *   [Meson](#meson)
 *   [GLSL](#glsl)
@@ -497,8 +497,6 @@
 
 *   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
-*   [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
-
 *   [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -521,7 +519,7 @@
 
 *   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 超级番茄小说下载器，保存周更中~
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器，持续更新，稳定可用
 
 *   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 
@@ -948,6 +946,12 @@
 *   [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) - uBlock Origin 乘风广告过滤规则
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+## Perl
+
+*   [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
+
+*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## TypeScript
 
@@ -2092,10 +2096,6 @@
 ## QML
 
 *   [hiroi-sora/Umi-OCR\_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 结束和新的开始
-
-## Perl
-
-*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Ruby
 
