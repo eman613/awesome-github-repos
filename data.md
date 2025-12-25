@@ -14,7 +14,6 @@
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [Batchfile](#batchfile)
-*   [Perl](#perl)
 *   [C++](#c-1)
 *   [Zig](#zig)
 *   [Java](#java)
@@ -38,6 +37,7 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Markdown](#markdown)
 *   [QML](#qml)
+*   [Perl](#perl)
 *   [Ruby](#ruby)
 *   [Meson](#meson)
 *   [GLSL](#glsl)
@@ -1191,6 +1191,8 @@
 
 *   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
+*   [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
+
 *   [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -1482,12 +1484,6 @@
 *   [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) - uBlock Origin 乘风广告过滤规则
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-## Perl
-
-*   [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
-
-*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## C++
 
@@ -2096,6 +2092,10 @@
 ## QML
 
 *   [hiroi-sora/Umi-OCR\_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 结束和新的开始
+
+## Perl
+
+*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Ruby
 
