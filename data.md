@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [C++](#c)
+*   [PowerShell](#powershell)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
-*   [miscellaneous](#miscellaneous)
-*   [PowerShell](#powershell)
 *   [Go](#go)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [Batchfile](#batchfile)
-*   [C++](#c-1)
 *   [Zig](#zig)
 *   [Java](#java)
 *   [Nim](#nim)
@@ -50,6 +50,436 @@
 *   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [FreeMarker](#freemarker)
+
+## miscellaneous
+
+*   [amcfy-music/amcfy-music](https://github.com/amcfy-music/amcfy-music) - Amcfy Music Player(箭头音乐) for Subsonic，Navidrome，Emby，Jellyfin，SwingMusic，道理鱼音乐。
+
+*   [fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool](https://github.com/fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool) - 功能强大界面友好的Windows网络抓包调试工具，支持TCP捕获/拦截/改包/发包，无需注入进程。替代Wireshark的轻量级方案。
+
+*   [m-finder/awesome-fancy-tool](https://github.com/m-finder/awesome-fancy-tool) - FancyTool 可以使用的GIF图片资源
+
+*   [Remix-Design/Sogou-Input-Skin](https://github.com/Remix-Design/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [irzyxa/Volume2](https://github.com/irzyxa/Volume2) - Volume² - advanced Windows volume control.
+
+*   [Yuy-0415/clicker](https://github.com/Yuy-0415/clicker) - 连点器，可跟随鼠标连点，可区域连点，可自定义参数
+
+*   [xixiranran/MyChrome](https://github.com/xixiranran/MyChrome) -
+
+*   [takushun-wu/WenYuanFonts](https://github.com/takushun-wu/WenYuanFonts) - 一种更加适合简体中文情景及其TeX领域的开源中文字体。/A more suitable open-source Chinese font collection for Simplified Chinese environment & TeX field.
+
+*   [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
+
+*   [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
+
+*   [lxgw/LxgwNeoXiZhi-Screen](https://github.com/lxgw/LxgwNeoXiZhi-Screen) - LXGW Neo XiHei and LXGW Neo ZhiSong for Screen Reading.
+
+*   [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
+
+*   [LOVECHEN/github-release-downloader](https://github.com/LOVECHEN/github-release-downloader) - Github Release Downloader - A command line tool for downloading GitHub release files
+
+*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
+
+*   [curtinp118/ChengduTravelQRCode](https://github.com/curtinp118/ChengduTravelQRCode) - 成都天府通 地铁 公交 乘车二维码 IOS 快捷指令 秒出乘车码
+
+*   [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+
+*   [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
+
+*   [lxgw/975maru](https://github.com/lxgw/975maru) - A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑体/狮尾圆体的中文字体。
+
+*   [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
+
+*   [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
+
+*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+
+*   [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
+
+*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
+
+*   [Ylarod/Florida](https://github.com/Ylarod/Florida) - 基础反检测 frida-server / Basic anti-detection frida-server
+
+*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
+
+*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+
+*   [zhaokeli/FastGestures](https://github.com/zhaokeli/FastGestures) - 鼠标/触控板/屏系统全局手势
+
+*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
+
+*   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
+
+*   [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
+
+*   [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
+
+*   [j-lokyma-s/kml](https://github.com/j-lokyma-s/kml) - A software that allows the user to lock the keyboard and mouse in a customized way.
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
+
+*   [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
+
+*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
+
+*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+
+*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
+
+*   [asupc/qqbot](https://github.com/asupc/qqbot) -
+
+*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+
+*   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+
+*   [mydockfinder/mydockfinder-for-Win10-Win11](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11) -
+
+*   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
+
+*   [violet7pan/XYplorer\_Help](https://github.com/violet7pan/XYplorer_Help) - XYplorer使用教程-原创
+
+*   [majorworld/Grid](https://github.com/majorworld/Grid) - 鼠标右键增强工具
+
+*   [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
+
+*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
+
+*   [NightFurySL2001/TangYuan-font](https://github.com/NightFurySL2001/TangYuan-font) - Source files of Inherited TangYuan/MaoKen TangYuan font ｜ 传承糖圆体／猫啃网糖圆体字型源文件
+
+*   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
+
+*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+
+*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+*   [lily-debug/extab](https://github.com/lily-debug/extab) - multi tab explorer
+
+*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
+
+*   [ruanfei/cross](https://github.com/ruanfei/cross) -
+
+*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
+
+*   [miaomiaosoft/TaskbarX](https://github.com/miaomiaosoft/TaskbarX) - TaskbarX FOR WIN7 - 任务栏显示系统占用/温度/网络速率/IP延迟/今日天气/实时热点
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+*   [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) - 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
+
+*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+
+## C++
+
+*   [Mikachu2333/KeyCastOW](https://github.com/Mikachu2333/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
+
+*   [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
+
+*   [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
+
+*   [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+
+*   [Mikachu2333/Mouse\_Crosshairs](https://github.com/Mikachu2333/Mouse_Crosshairs) - This software can display the mouse crosshair, allowing you to easily locate items when browsing tables and other files.｜这个软件可以显示鼠标十字准星，让你在浏览表格等文件时方便地定位
+
+*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+
+*   [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
+
+*   [bytedance/Fastbot\_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
+
+*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
+
+*   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
+
+*   [kukuruzka165/materialgram](https://github.com/kukuruzka165/materialgram) - Telegram Desktop fork with material icons and some improvements
+
+*   [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) - Desktop Telegram client with good customization and Ghost mode.
+
+*   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
+
+*   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
+
+*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
+
+*   [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款轻量、飞快且强大的图像查看器，支持从 JPEG 到 AVIF、HEIC 和 JPEG XL 等最新格式的超多图像格式！A lightweight, lightning-fast, and powerful image viewer that supports a vast array of image formats—from JPEG to the latest ones such as AVIF, HEIC, and JPEG-XL!
+
+*   [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+
+*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
+
+*   [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
+
+*   [superDMS/HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) - 雪藏HsFreezer是一款调度计算机资源的进程管理软件 and 游戏暂停冻结软件 and 老板键平替软件 and .....自定义软件)
+
+*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
+
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
+
+*   [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
+
+*   [XMuli/SunnyCapturer](https://github.com/XMuli/SunnyCapturer) - A simple and beautiful cross-platform screenshot software, It also supports OCR, image translation, stickers and  pinning images features.  |  简单且漂亮的跨平台截图软件，支持离线 OCR、图片翻译、贴图和钉图等功能
+
+*   [Bush2021/chrome\_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
+
+*   [heyManNice/EasyMusic](https://github.com/heyManNice/EasyMusic) - 这是一个致力于用C++和win32api打造的开源第三方网易云音乐。
+
+*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+
+*   [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
+
+*   [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
+
+*   [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
+
+*   [H3d9/memory\_cleaner](https://github.com/H3d9/memory_cleaner) - Memory Cleaner重制版（原版未开源），删除强制联网更新，并添加目前windows已有的所有清理内存方法。
+
+*   [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
+
+*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
+
+*   [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
+
+*   [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+*   [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
+
+*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
+
+*   [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
+
+*   [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
+
+*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
+
+*   [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
+
+*   [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
+
+*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
+
+*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [BLumia/pineapple-pictures](https://github.com/BLumia/pineapple-pictures) - A homebrew lightweight image viewer.
+
+*   [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
+
+*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
+
+*   [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
+
+*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
+
+*   [mpurses/Sonder](https://github.com/mpurses/Sonder) - Rainmeter skin
+
+*   [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) - Network file transfer application for Windows, OS X, & Linux
+
+*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+
+*   [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
+
+*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+
+*   [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
+
+*   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
+
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+
+*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+
+*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+*   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
+
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+
+*   [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+
+*   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
+
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
+
+*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
+
+*   [cool2528/baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+## PowerShell
+
+*   [constansino/WinUtil\_CN](https://github.com/constansino/WinUtil_CN) - WinUtil\_CN
+
+*   [Zhu-junwei/wsm](https://github.com/Zhu-junwei/wsm) - WSM is a command-line management tool for managing Windows services, providing a standardized and interactive entry point for service operations.WSM 是一个用管理 Windows 服务的命令行管理工具，提供标准化、可交互的服务运维入口。
+
+*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
+*   [htyxyt/Aria2-SuperLazyPackage](https://github.com/htyxyt/Aria2-SuperLazyPackage) - Aria2 超·懒人包，一键配置Aria2，让Aria2以Windows系统服务的方式自动运行。
+
+*   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
+
+*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+*   [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
+
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+
+## Rust
+
+*   [HaujetZhao/Rust-Tray](https://github.com/HaujetZhao/Rust-Tray) - 将控制台最小化到托盘图标的工具（A tool to minimize Windows console applications to the system tray）
+
+*   [ddki/windows-mini-env](https://github.com/ddki/windows-mini-env) - A mini envment variable tool for windows system. 一个在 Windows 系统中通过右键菜单添加目录到环境变量的小工具。
+
+*   [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
+
+*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+*   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+
+*   [iKineticate/BlueGauge](https://github.com/iKineticate/BlueGauge) - A lightweight tray tool for easily viewing the battery level of Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
+
+*   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
+
+*   [rsbench/IP-Hacker](https://github.com/rsbench/IP-Hacker) -  IP tools used by Russia's big hackers | 一款跨平台、高性能、易使用、CLI 友好的 IP 批量检测工具
+
+*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+
+*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+
+*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+*   [mtkennerly/shawl](https://github.com/mtkennerly/shawl) - Windows service wrapper for arbitrary commands
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
+
+*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+
+*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+
+*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## TypeScript
 
@@ -495,12 +925,6 @@
 
 *   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-
 ## Swift
 
 *   [iSoldLeo/PastScreen-CN](https://github.com/iSoldLeo/PastScreen-CN) - PastScreen-CN 是一款专注于效率的 macOS 截图工具，截图即刻进入剪贴板，几乎无等待。 它支持全局热键自定义、右键取消、原生截图音效和全中文界面，轻量、快速、不打扰。
@@ -791,262 +1215,6 @@
 
 *   [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox) - A Graceful and Powerful Customized Firefox
 
-## Rust
-
-*   [ddki/windows-mini-env](https://github.com/ddki/windows-mini-env) - A mini envment variable tool for windows system. 一个在 Windows 系统中通过右键菜单添加目录到环境变量的小工具。
-
-*   [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-
-*   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
-
-*   [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-*   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-
-*   [iKineticate/BlueGauge](https://github.com/iKineticate/BlueGauge) - A lightweight tray tool for easily viewing the battery level of Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
-
-*   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
-
-*   [rsbench/IP-Hacker](https://github.com/rsbench/IP-Hacker) -  IP tools used by Russia's big hackers | 一款跨平台、高性能、易使用、CLI 友好的 IP 批量检测工具
-
-*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
-
-*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-
-*   [mtkennerly/shawl](https://github.com/mtkennerly/shawl) - Windows service wrapper for arbitrary commands
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
-*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator
-
-*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-
-*   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-
-*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-## miscellaneous
-
-*   [fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool](https://github.com/fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool) - 功能强大界面友好的Windows网络抓包调试工具，支持TCP捕获/拦截/改包/发包，无需注入进程。替代Wireshark的轻量级方案。
-
-*   [m-finder/awesome-fancy-tool](https://github.com/m-finder/awesome-fancy-tool) - FancyTool 可以使用的GIF图片资源
-
-*   [Remix-Design/Sogou-Input-Skin](https://github.com/Remix-Design/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [irzyxa/Volume2](https://github.com/irzyxa/Volume2) - Volume² - advanced Windows volume control.
-
-*   [Yuy-0415/clicker](https://github.com/Yuy-0415/clicker) - 连点器，可跟随鼠标连点，可区域连点，可自定义参数
-
-*   [xixiranran/MyChrome](https://github.com/xixiranran/MyChrome) -
-
-*   [takushun-wu/WenYuanFonts](https://github.com/takushun-wu/WenYuanFonts) - 一种更加适合简体中文情景及其TeX领域的开源中文字体。/A more suitable open-source Chinese font collection for Simplified Chinese environment & TeX field.
-
-*   [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
-
-*   [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
-
-*   [lxgw/LxgwNeoXiZhi-Screen](https://github.com/lxgw/LxgwNeoXiZhi-Screen) - LXGW Neo XiHei and LXGW Neo ZhiSong for Screen Reading.
-
-*   [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
-
-*   [LOVECHEN/github-release-downloader](https://github.com/LOVECHEN/github-release-downloader) - Github Release Downloader - A command line tool for downloading GitHub release files
-
-*   [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！
-
-*   [curtinp118/ChengduTravelQRCode](https://github.com/curtinp118/ChengduTravelQRCode) - 成都天府通 地铁 公交 乘车二维码 IOS 快捷指令 秒出乘车码
-
-*   [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
-
-*   [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
-
-*   [lxgw/975maru](https://github.com/lxgw/975maru) - A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑体/狮尾圆体的中文字体。
-
-*   [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
-
-*   [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
-
-*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
-
-*   [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
-
-*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
-
-*   [Ylarod/Florida](https://github.com/Ylarod/Florida) - 基础反检测 frida-server / Basic anti-detection frida-server
-
-*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
-*   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
-
-*   [zhaokeli/FastGestures](https://github.com/zhaokeli/FastGestures) - 鼠标/触控板/屏系统全局手势
-
-*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
-
-*   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
-
-*   [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
-
-*   [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
-
-*   [j-lokyma-s/kml](https://github.com/j-lokyma-s/kml) - A software that allows the user to lock the keyboard and mouse in a customized way.
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
-
-*   [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
-
-*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
-
-*   [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
-
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
-
-*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
-
-*   [asupc/qqbot](https://github.com/asupc/qqbot) -
-
-*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
-
-*   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
-
-*   [mydockfinder/mydockfinder-for-Win10-Win11](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11) -
-
-*   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
-
-*   [violet7pan/XYplorer\_Help](https://github.com/violet7pan/XYplorer_Help) - XYplorer使用教程-原创
-
-*   [majorworld/Grid](https://github.com/majorworld/Grid) - 鼠标右键增强工具
-
-*   [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
-
-*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
-
-*   [NightFurySL2001/TangYuan-font](https://github.com/NightFurySL2001/TangYuan-font) - Source files of Inherited TangYuan/MaoKen TangYuan font ｜ 传承糖圆体／猫啃网糖圆体字型源文件
-
-*   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-
-*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-
-*   [lily-debug/extab](https://github.com/lily-debug/extab) - multi tab explorer
-
-*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
-
-*   [ruanfei/cross](https://github.com/ruanfei/cross) -
-
-*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-
-*   [miaomiaosoft/TaskbarX](https://github.com/miaomiaosoft/TaskbarX) - TaskbarX FOR WIN7 - 任务栏显示系统占用/温度/网络速率/IP延迟/今日天气/实时热点
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) - 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
-
-*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-
-## PowerShell
-
-*   [Zhu-junwei/wsm](https://github.com/Zhu-junwei/wsm) - WSM is a command-line management tool for managing Windows services, providing a standardized and interactive entry point for service operations.WSM 是一个用管理 Windows 服务的命令行管理工具，提供标准化、可交互的服务运维入口。
-
-*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-
-*   [htyxyt/Aria2-SuperLazyPackage](https://github.com/htyxyt/Aria2-SuperLazyPackage) - Aria2 超·懒人包，一键配置Aria2，让Aria2以Windows系统服务的方式自动运行。
-
-*   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
-
-*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-
-*   [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
-
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-
-*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-
 ## Go
 
 *   [WCY-dt/MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
@@ -1265,7 +1433,7 @@
 
 *   [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；个性化配置；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
 *   [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
 
@@ -1487,172 +1655,6 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
-## C++
-
-*   [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
-
-*   [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
-
-*   [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
-
-*   [Mikachu2333/Mouse\_Crosshairs](https://github.com/Mikachu2333/Mouse_Crosshairs) - This software can display the mouse crosshair, allowing you to easily locate items when browsing tables and other files.｜这个软件可以显示鼠标十字准星，让你在浏览表格等文件时方便地定位
-
-*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
-
-*   [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
-
-*   [bytedance/Fastbot\_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
-
-*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-
-*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-
-*   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
-
-*   [kukuruzka165/materialgram](https://github.com/kukuruzka165/materialgram) - Telegram Desktop fork with material icons and some improvements
-
-*   [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) - Desktop Telegram client with good customization and Ghost mode.
-
-*   [MrBeanCpp/AltTaber](https://github.com/MrBeanCpp/AltTaber) - A MacOS-style Alt-Tab window/app switcher replacement for Windows
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
-
-*   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
-
-*   [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell) - An alternative Windows context menu, and more.
-
-*   [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款轻量、飞快且强大的图像查看器，支持从 JPEG 到 AVIF、HEIC 和 JPEG XL 等最新格式的超多图像格式！A lightweight, lightning-fast, and powerful image viewer that supports a vast array of image formats—from JPEG to the latest ones such as AVIF, HEIC, and JPEG-XL!
-
-*   [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-
-*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
-
-*   [Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system title bar, support win10 and win11.
-
-*   [superDMS/HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) - 雪藏HsFreezer是一款调度计算机资源的进程管理软件 and 游戏暂停冻结软件 and 老板键平替软件 and .....自定义软件)
-
-*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
-
-*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-
-*   [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
-
-*   [XMuli/SunnyCapturer](https://github.com/XMuli/SunnyCapturer) - A simple and beautiful cross-platform screenshot software, It also supports OCR, image translation, stickers and  pinning images features.  |  简单且漂亮的跨平台截图软件，支持离线 OCR、图片翻译、贴图和钉图等功能
-
-*   [Bush2021/chrome\_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
-
-*   [heyManNice/EasyMusic](https://github.com/heyManNice/EasyMusic) - 这是一个致力于用C++和win32api打造的开源第三方网易云音乐。
-
-*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-
-*   [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
-
-*   [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
-
-*   [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
-
-*   [H3d9/memory\_cleaner](https://github.com/H3d9/memory_cleaner) - Memory Cleaner重制版（原版未开源），删除强制联网更新，并添加目前windows已有的所有清理内存方法。
-
-*   [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
-
-*   [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
-
-*   [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
-
-*   [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-*   [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
-
-*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-
-*   [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
-
-*   [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
-
-*   [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-
-*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
-
-*   [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
-
-*   [sylikc/jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI.  Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
-
-*   [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
-
-*   [ysc3839/FontMod](https://github.com/ysc3839/FontMod) - Simple hook tool to change Win32 program font.
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [BLumia/pineapple-pictures](https://github.com/BLumia/pineapple-pictures) - A homebrew lightweight image viewer.
-
-*   [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
-
-*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。
-
-*   [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
-
-*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
-
-*   [mpurses/Sonder](https://github.com/mpurses/Sonder) - Rainmeter skin
-
-*   [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) - Network file transfer application for Windows, OS X, & Linux
-
-*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-
-*   [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
-
-*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
-
-*   [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
-
-*   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
-
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-
-*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
-
-*   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-*   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
-
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-
-*   [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-
-*   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
-
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
-
-*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-
-*   [cool2528/baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
 ## Zig
 
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -1772,8 +1774,6 @@
 *   [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 
 *   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-
-*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 
 ## Vue
 
