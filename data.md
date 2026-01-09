@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [C#](#c-1)
 *   [Swift](#swift)
@@ -37,6 +37,7 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Markdown](#markdown)
 *   [QML](#qml)
+*   [YARA](#yara)
 *   [Perl](#perl)
 *   [Ruby](#ruby)
 *   [Meson](#meson)
@@ -51,7 +52,33 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [FreeMarker](#freemarker)
 
+## PowerShell
+
+*   [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - Let logi options plus do the job of keyboard and mouse only!disable logivoice、analytics、flow、sso、update、dfu、aipromptbuilder、device-recommendation
+
+*   [constansino/WinUtil\_CN](https://github.com/constansino/WinUtil_CN) - WinUtil\_CN
+
+*   [Zhu-junwei/wsm](https://github.com/Zhu-junwei/wsm) - WSM is a command-line management tool for managing Windows services, providing a standardized and interactive entry point for service operations.WSM 是一个用管理 Windows 服务的命令行管理工具，提供标准化、可交互的服务运维入口。
+
+*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
+*   [htyxyt/Aria2-SuperLazyPackage](https://github.com/htyxyt/Aria2-SuperLazyPackage) - Aria2 超·懒人包，一键配置Aria2，让Aria2以Windows系统服务的方式自动运行。
+
+*   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
+
+*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+*   [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
+
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+
 ## TypeScript
+
+*   [Decohererk/DecoTV](https://github.com/Decohererk/DecoTV) - 基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
 
 *   [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 统一管理第三方 AI 聚合中转站与自建 New API：自动识别账号、查看余额、同步模型、管理密钥，全平台与云端备份 | Unified management of third-party AI aggregation transfer stations and self-built New API: automatic account identification, balance viewing, model synchronization, key management, and full-platform and cloud backup
 
@@ -451,7 +478,7 @@
 
 ## Vue
 
-*   [teojs/clock-dashboard](https://github.com/teojs/clock-dashboard) - 天气时钟看板
+*   [teojs/clock-dashboard](https://github.com/teojs/clock-dashboard) - 一个简约的在线天气时钟看板，让旧平板再利用！
 
 *   [LYX9527/what-happen](https://github.com/LYX9527/what-happen) - 一个简约无广，专注新闻的聚合体，完美适配Web端，手机端，《今日时事》为您实时聚合各大平台最新资讯，按时间序列 展示热点新闻动态，包含头条、百度、知乎、哔哩哔哩、豆瓣、微博、贴吧、汽车之家、虎扑、Github、抖音、懂车帝等各种消息，给您提供极致的专注阅读的信息流体验！
 
@@ -681,8 +708,6 @@
 
 *   [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 
-*   [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-
 ## miscellaneous
 
 *   [amcfy-music/amcfy-music](https://github.com/amcfy-music/amcfy-music) - Amcfy Music Player(箭头音乐) for Subsonic，Navidrome，Emby，Jellyfin，SwingMusic，道理鱼音乐。
@@ -836,30 +861,6 @@
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
 *   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-
-## PowerShell
-
-*   [constansino/WinUtil\_CN](https://github.com/constansino/WinUtil_CN) - WinUtil\_CN
-
-*   [Zhu-junwei/wsm](https://github.com/Zhu-junwei/wsm) - WSM is a command-line management tool for managing Windows services, providing a standardized and interactive entry point for service operations.WSM 是一个用管理 Windows 服务的命令行管理工具，提供标准化、可交互的服务运维入口。
-
-*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-
-*   [htyxyt/Aria2-SuperLazyPackage](https://github.com/htyxyt/Aria2-SuperLazyPackage) - Aria2 超·懒人包，一键配置Aria2，让Aria2以Windows系统服务的方式自动运行。
-
-*   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
-
-*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-
-*   [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
-
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-
-*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 
 ## Rust
 
@@ -1221,7 +1222,7 @@
 
 *   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统搭建 domain mail tempmail
 
-*   [ImSwordTooth/findwhatever](https://github.com/ImSwordTooth/findwhatever) -
+*   [ImSwordTooth/findwhatever](https://github.com/ImSwordTooth/findwhatever) - 浏览器插件，支持大小写、整词、正则、自动重新查找、个性化高亮样式...
 
 *   [xy2yp/StarGazer](https://github.com/xy2yp/StarGazer) - 一款开源、优雅、高效的 GitHub Stars 管理工具，于万千星辰中，点亮你的每一份收藏。 An Open-source, Elegant, and Efficient GitHub Stars Management Tool. Illuminating Every Treasure You've Collected.
 
@@ -1302,8 +1303,6 @@
 *   [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 
 *   [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 *   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 
@@ -2092,6 +2091,10 @@
 ## QML
 
 *   [hiroi-sora/Umi-OCR\_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 结束和新的开始
+
+## YARA
+
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## Perl
 
