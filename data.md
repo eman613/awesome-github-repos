@@ -1162,8 +1162,6 @@
 
 *   [bytedance/Fastbot\_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
 
-*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-
 *   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 
 *   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
@@ -1325,6 +1323,8 @@
 *   [xenolightning/AudioSwitcher\_v1](https://github.com/xenolightning/AudioSwitcher_v1) - Version 1 of Audio Switcher
 
 *   [Lunova-Studio/DarkMode2-Refactor](https://github.com/Lunova-Studio/DarkMode2-Refactor) - Windows10/11 automatically switch color mode tool.
+
+*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 
 *   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
