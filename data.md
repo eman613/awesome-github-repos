@@ -890,6 +890,8 @@
 
 *   [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 
+*   [wsvn53/scrcpy-mobile](https://github.com/wsvn53/scrcpy-mobile) - Ported scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone.
+
 *   [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 
 *   [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -2243,8 +2245,6 @@
 ## Objective-C
 
 *   [Alinto/sogo](https://github.com/Alinto/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
-
-*   [wsvn53/scrcpy-mobile](https://github.com/wsvn53/scrcpy-mobile) - Ported scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone.
 
 *   [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 
