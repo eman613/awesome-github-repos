@@ -510,7 +510,7 @@
 
 *   [amcfy-music/amcfy-music](https://github.com/amcfy-music/amcfy-music) - Amcfy Music Player(箭头音乐) for Subsonic，Navidrome，Emby，Jellyfin，SwingMusic，道理鱼音乐。
 
-*   [fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool](https://github.com/fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool) - 功能强大界面友好的Windows网络抓包调试工具，支持TCP捕获/拦截/改包/发包，无需注入进程。替代Wireshark的轻量级方案。
+*   [fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool](https://github.com/fatbeanssoft/Fatbeans-TCP-Packet-Capture-Tool) - 驱动级网络封包抓包调试工具 + 零代码应用发布平台。支持TCP/UDP/HTTP/WS封包拦截修改、WebHook、重定向、智能回复。无需编程，通过配置规则即可打包成独立商业应用，内置用户授权与计费系统。完美支持Windows。
 
 *   [m-finder/awesome-fancy-tool](https://github.com/m-finder/awesome-fancy-tool) - FancyTool 可以使用的GIF图片资源
 
@@ -536,7 +536,7 @@
 
 *   [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式转换，GUI界面下载功能
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 - 支持多平台的番茄小说下载工具，提供TXT/EPUB格式，GUI界面下载功能
 
 *   [LOVECHEN/github-release-downloader](https://github.com/LOVECHEN/github-release-downloader) - Github Release Downloader - A command line tool for downloading GitHub release files
 
@@ -1410,7 +1410,7 @@
 
 *   [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
 
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 *   [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 
@@ -1506,7 +1506,7 @@
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
 
 *   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 
