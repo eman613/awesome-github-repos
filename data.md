@@ -664,7 +664,7 @@
 
 *   [duma520/Mouse\_Click\_Simulator](https://github.com/duma520/Mouse_Click_Simulator) - 高级鼠标点击模拟器，高级鼠标点击模拟器是一款功能强大的自动化工具，可模拟鼠标点击、移动和键盘操作，适用于自动化测试、游戏辅助、办公自动化等多种场景。
 
-*   [SpLlry/BTPowerNotice](https://github.com/SpLlry/BTPowerNotice) - 电脑蓝牙电量显示
+*   [SpLlry/BTPowerNotice](https://github.com/SpLlry/BTPowerNotice) - BTPowerNotice是一个实用的蓝牙设备电量监控工具,基于 Python 和 PyQt6 开发,通过直观的系统托盘和任务栏帮助用户实时了解蓝牙设备的电量状态，避免因设备电量耗尽而影响使用。项目采用现代化的技术栈，具有良好的用户体验和系统集成度。
 
 *   [amirhmoradi/starred](https://github.com/amirhmoradi/starred) - Automatically categorize your GitHub starred repositories using AI (Claude, GPT, or Gemini), export to Markdown, and optionally sync with GitHub star lists.
 
@@ -716,7 +716,7 @@
 
 *   [ying-ck/fanqienovel-downloader](https://github.com/ying-ck/fanqienovel-downloader) - 下载番茄小说
 
-*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
+*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 
 *   [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
 
