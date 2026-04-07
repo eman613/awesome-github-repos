@@ -1024,7 +1024,7 @@
 
 *   [electh/nextflux](https://github.com/electh/nextflux) - Yet another web-based frontend for Miniflux
 
-*   [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+*   [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 
 *   [RelaxPic/relaxpic.github.io](https://github.com/RelaxPic/relaxpic.github.io) - This is the official home of RelaxPic.
 
