@@ -58,7 +58,7 @@
 
 *   [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.
 
-*   [Kiowx/c\_cleaner\_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源C盘强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
+*   [Kiowx/c\_cleaner\_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
 
 *   [duma520/Mouse\_Click\_Simulator](https://github.com/duma520/Mouse_Click_Simulator) - 高级鼠标点击模拟器，高级鼠标点击模拟器是一款功能强大的自动化工具，可模拟鼠标点击、移动和键盘操作，适用于自动化测试、游戏辅助、办公自动化等多种场景。
 
