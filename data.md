@@ -54,6 +54,8 @@
 
 ## TypeScript
 
+*   [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) - MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
+
 *   [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - SoloMD — a lightweight, cross-platform Markdown + plain text editor. One file. One window. Just write.
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -2185,8 +2187,6 @@
 *   [cdevroe/unmark](https://github.com/cdevroe/unmark) - An open source to do app for bookmarks.
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 
 ## Dart
 
