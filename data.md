@@ -10,8 +10,8 @@
 *   [Python](#python)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c-1)
 *   [Svelte](#svelte)
+*   [C++](#c-1)
 *   [Go](#go)
 *   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
@@ -71,8 +71,6 @@
 *   [Lin-arm/GKD\_subscription](https://github.com/Lin-arm/GKD_subscription) - 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
 *   [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) - MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
-
-*   [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 
@@ -340,7 +338,7 @@
 
 *   [vorojar/md-preview](https://github.com/vorojar/md-preview) - Ultra-lightweight cross-platform Markdown preview app. ~1MB binary, native WebView, offline syntax highlighting, dark mode. Built with Rust + wry.
 
-*   [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents.
+*   [zhitongblog/solomd](https://github.com/zhitongblog/solomd) - A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
 
 *   [CrankZ/li-calendar](https://github.com/CrankZ/li-calendar) - 跨平台的桌面日历，支持显示农历、节假日、调休、节气等信息
 
@@ -1188,6 +1186,20 @@
 
 *   [zhaopengme/gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT that does not require a local GIT environment.
 
+## Svelte
+
+*   [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents.
+
+*   [Nigh/calcuko](https://github.com/Nigh/calcuko) - calcuko - 多行公式计算器
+
+*   [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
+
+*   [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
+
+*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
+
+*   [cup113/full-clock](https://github.com/cup113/full-clock) - A pure digital clock supporting fullscreen display, highly configured | 一个纯净无广告的电子时钟，支持全屏显示，可配置性强，考试电脑最佳用途
+
 ## C++
 
 *   [justnullname/QuickView](https://github.com/justnullname/QuickView) - The fastest Direct2D-powered image viewer for Windows. Features multi-threaded JXL/AVIF decoding, GPU acceleration, and a borderless geek UI. Supports WebP, RAW, & QOI with visual settings and auto-updates. Portable & SIMD-optimized.
@@ -1363,18 +1375,6 @@
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 *   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
-
-## Svelte
-
-*   [Nigh/calcuko](https://github.com/Nigh/calcuko) - calcuko - 多行公式计算器
-
-*   [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
-
-*   [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
-
-*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
-
-*   [cup113/full-clock](https://github.com/cup113/full-clock) - A pure digital clock supporting fullscreen display, highly configured | 一个纯净无广告的电子时钟，支持全屏显示，可配置性强，考试电脑最佳用途
 
 ## Go
 
