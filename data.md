@@ -320,7 +320,7 @@
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 
-*   [zss823158062/sTerminal](https://github.com/zss823158062/sTerminal) - windows terminal
+*   [zss823158062/sTerminal](https://github.com/zss823158062/sTerminal) - a simple windows terminal power by senx
 
 *   [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
 
@@ -986,8 +986,6 @@
 
 *   [HaujetZhao/CapsWriter](https://github.com/HaujetZhao/CapsWriter) - 此项目已废弃，不再维护，请使用 [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)
 
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
 *   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 
 *   [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
@@ -1021,6 +1019,8 @@
 *   [HelioGuilherme66/RIDE](https://github.com/HelioGuilherme66/RIDE) - Test data editor for Robot Framework
 
 *   [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
+
+*   [lilyvia/aria2-conf](https://github.com/lilyvia/aria2-conf) - simplified chinese configuration and aria2rpc / 部分汉化 aria2 配置文件
 
 ## miscellaneous
 
@@ -1350,8 +1350,6 @@
 
 *   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
-*   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
-
 *   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 
 *   [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -1507,6 +1505,8 @@
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 
 *   [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
 *   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 
