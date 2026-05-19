@@ -1194,7 +1194,7 @@
 
 *   [alecdotdev/Markpad](https://github.com/alecdotdev/Markpad) - The Notepad equivalent for Markdown
 
-*   [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents.
+*   [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free open-source video, music and course downloader. Grab from YouTube, Instagram, TikTok, Udemy, Hotmart and 1000+ sites via yt-dlp. Then watch, read and listen inside the app. No terminal, no setup.
 
 *   [Nigh/calcuko](https://github.com/Nigh/calcuko) - calcuko - 多行公式计算器
 
