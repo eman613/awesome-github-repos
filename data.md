@@ -1390,8 +1390,6 @@
 
 *   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
-*   [cup113/full-clock](https://github.com/cup113/full-clock) - A pure digital clock supporting fullscreen display, highly configured | 一个纯净无广告的电子时钟，支持全屏显示，可配置性强，考试电脑最佳用途
-
 ## Pascal
 
 *   [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) - RDP Wrapper Library
@@ -1556,7 +1554,7 @@
 
 *   [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
+*   [SPlayer-Dev/SPlayer](https://github.com/SPlayer-Dev/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -1581,6 +1579,8 @@
 *   [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 
 *   [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
+
+*   [cup113/full-clock](https://github.com/cup113/full-clock) - A pure digital clock supporting fullscreen display, highly configured | 一个纯净无广告的电子时钟，支持全屏显示，可配置性强，考试电脑最佳用途
 
 *   [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 
