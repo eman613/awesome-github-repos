@@ -54,6 +54,8 @@
 
 ## Rust
 
+*   [manyougz/velotype](https://github.com/manyougz/velotype) - Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡
+
 *   [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 
 *   [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
@@ -70,7 +72,7 @@
 
 *   [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 
-*   [vorojar/md-preview](https://github.com/vorojar/md-preview) - Small native Markdown preview app built with Rust + system WebView. No Electron. GFM, syntax highlighting, KaTeX, Mermaid, live reload.
+*   [vorojar/md-preview](https://github.com/vorojar/md-preview) - Native Markdown previewer for AI-generated docs. Rust + system WebView, no Electron, offline Mermaid/KaTeX, live reload.
 
 *   [CrankZ/li-calendar](https://github.com/CrankZ/li-calendar) - 跨平台的桌面日历，支持显示农历、节假日、调休、节气等信息
 
@@ -1186,7 +1188,7 @@
 
 *   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 
-*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
+*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统  支持API 调用 支持多渠道发件 支持用户管理 domain mail tempmail
 
 *   [ImSwordTooth/findwhatever](https://github.com/ImSwordTooth/findwhatever) - 浏览器查找功能增强插件，支持大小写、整词、正则、自动重新查找、个性化高亮样式...
 
@@ -1933,8 +1935,6 @@
 *   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
 *   [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
-
-*   [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 
 ## Svelte
 
