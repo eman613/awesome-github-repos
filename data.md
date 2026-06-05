@@ -1623,7 +1623,7 @@
 
 *   [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 
-*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 ，提供TXT/EPUB格式，GUI界面下载功能，番茄小说转txt，MP4阅读器
+*   [POf-L/Fanqie-novel-Downloader](https://github.com/POf-L/Fanqie-novel-Downloader) - 番茄小说下载器 ，提供TXT/EPUB格式，GUI界面下载功能，番茄小说转txt，MP4可用，绿色单文件，2026年6月恢复活跃更新🔥
 
 *   [LOVECHEN/github-release-downloader](https://github.com/LOVECHEN/github-release-downloader) - Github Release Downloader - A command line tool for downloading GitHub release files
 
