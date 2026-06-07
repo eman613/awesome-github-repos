@@ -935,7 +935,7 @@
 
 *   [lch319/XiaoYao\_QuickJump](https://github.com/lch319/XiaoYao_QuickJump) - 在打开或保存对话框中，快速跳转到当前 资源管理器/TC/DO/XY/Q-Dir中打开的文件夹路径
 
-*   [abgox/InputTip](https://github.com/abgox/InputTip) - 输入法状态管理: 实时提示 + 状态切换
+*   [abgox/InputTip](https://github.com/abgox/InputTip) - 规则驱动的输入法状态管理器 · 即时 · 强大 · 高效
 
 *   [Ahykal/DialogSwitch](https://github.com/Ahykal/DialogSwitch) - Path switcher for Windows file dialogs. Provides a configurable, context-aware popup menu of favorite folders, tailored to the active application and dialog title.
 
